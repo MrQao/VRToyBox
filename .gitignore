@@ -1,0 +1,13 @@
+# 忽略所有檔案與資料夾
+Library/
+Logs/
+UserSettings/
+.vs/
+Temp/
+obj/
+
+.vscode
+*.csproj
+*.sln
+.vsconfig
+
